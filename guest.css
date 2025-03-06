@@ -45,14 +45,18 @@ input, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: red;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: darkred;
+}
+
+#addguest {
+    background-color: green;
 }
 
 table {

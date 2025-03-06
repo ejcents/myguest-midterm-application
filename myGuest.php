@@ -153,7 +153,7 @@
         echo '<input type="text" name="lastName" placeholder="Last Name" required>';
         echo '<input type="email" name="email" placeholder="Email" required>';
         echo '<input type="file" name="photo" accept="image/*">';
-        echo '<button type="submit" name="add">Add Guest</button>';
+        echo '<button type="submit" name="add" id="addguest">Add Guest</button>';
         echo '</form>';
     }
 
